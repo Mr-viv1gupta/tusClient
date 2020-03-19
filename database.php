@@ -10,7 +10,7 @@ $connection = mysqli_connect($host, $username, $password, $database);
 
 if(isset($_REQUEST)){
 	//echo json_encode($_REQUEST);
-	$username = 'vivek@visionias';
+	$username = 'multimedia@visionias.in';
 	$fileName = $_REQUEST['file_name'];
 	$fileSize = $_REQUEST['file_size'];
 	$moduleNumber = $_REQUEST['module_number'];
