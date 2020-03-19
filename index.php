@@ -15,7 +15,7 @@
        <!--Logout Option-->
        <!--//TODO: Implement the logout.php page-->
         <form action="logout.php" method="POST" style="float: right">
-          <button type="submit" name='logout' class="btn btn-primary" id='logout'>Log out</button>
+          <!-- <button type="submit" name='logout' class="btn btn-primary" id='logout'>Log out</button> -->
         </form>
         
         <!--Heading-->
